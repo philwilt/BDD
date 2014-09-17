@@ -2,6 +2,7 @@
 
 require "minitest/autorun"
 require "minitest/spec"
+require "minitest/pride"
 
 class FeatureSpec < MiniTest::Spec
   require "capybara/poltergeist"
