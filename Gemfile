@@ -1,5 +1,5 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "rake"
-gem "capybara"
-gem "poltergeist"
+gem 'rake'
+gem 'capybara'
+gem 'poltergeist'
